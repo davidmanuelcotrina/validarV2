@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://appmongodb:UserAdmin77@cluster0.5zfh9bc.mongodb.net/?retryWrites=true&w=majority
+      database: dbBankOpe
+
+
+
+config:
+  uploads:
+    path: C://Users//
+
